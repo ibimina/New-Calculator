@@ -26,7 +26,7 @@ Task requirements :
 
 ### Screenshot
 
-![calculator-app using react](calculator-app%20using%20react_2.jpg)
+![calculator-app using react](https://user-images.githubusercontent.com/96787210/198874269-4a7f4ad1-eeb0-47c8-896a-977bad649093.jpg)
 
 ### Links
 
