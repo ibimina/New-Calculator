@@ -1,17 +1,51 @@
-## Running React on Repl.it
+# New-Calculator
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+# Calculator app
+# Altschool Frontend Engineering- Project
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+This is Altschool first capstone project in second semester for Frontend school of engineering.
+## Table of contents
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [Author](#author)
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+## Overview
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+### The challenge
 
-### Typescript
+Task requirements :
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+1. View the optimal layout for the app depending on their device's screen size
+2. Create a calculator app using react
+3. Implement mathematical operations(addition,multiplication, substraction,division e.t.c)
+
+
+### Screenshot
+
+![calculator-app using react](calculator-app%20using%20react.jpg)-b348-0c3600de41d1.jpg)
+
+### Links
+
+- Solution URL:(https://github.com/ibimina/New-Calculator)
+- Live Site URL: (https://New-Calculator.ibimina.repl.co)
+
+### Built with
+
+- React
+- CSS custom properties
+- Mobile-first workflow
+
+
+## Author
+
+- Ibimina Hart
+- Linkedin -[ibimina hart](https://www.linkedin.com/in/ibimina-hart)
+- Twitter -[@ibiminaaH](https://www.twitter.com/ibiminaaH)
+- Frontend Mentor -[@ibimina](https://www.frontendmentor.io/profile/ibimina)
+
+
+
